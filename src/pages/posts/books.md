@@ -8,9 +8,17 @@ date: '2021-01-20'
 template: post
 thumb_img_path: images/violet-crane.gif
 ---
-## Lorem ipsum
+## \[Tutorial] Big folder of books for emergencies, disasters, collapses, etc.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#### A compilation of many critical books for emergencies, and how to get them on your phone.
 
-- Lorem ipsum
-- dolor sit amet
+Covering most possible use cases, and emergency situations - this compilation of books is to ensure your total safety, and survival, in case of the general types of emergencies/disasters (such as natural disasters, pandemics, war, and political collapses).
+
+The contents include
+
+
+
+ 
+
+
+
