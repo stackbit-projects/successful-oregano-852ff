@@ -1,6 +1,6 @@
 ---
 title: Books for emergencies and disasters
-subtitle: Books for emergencies and disasters
+subtitle: ''
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
