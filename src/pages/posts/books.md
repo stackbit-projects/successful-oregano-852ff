@@ -22,7 +22,7 @@ Considering the fact that you **might not have access to electricity in an emerg
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fforgardening.org%2Fwp-content%2Fuploads%2F2018%2F08%2FSolar-Powerbank-von-XTPower-im-Test-XTPower-XT-S4000-Review-16.jpg\&f=1\&nofb=1)
 
-You can get such a powerbank at any electronics store, or online (i.e. on amazon). I recommend to look at amazon to see which one has the best reviews, and get that one. These are readily available locally, so you don't need to ***buy it** **right now***; you can probably get one even after the hypothetical emergency, just by going to the electronics store (which might not be possible in certain types of disasters, because of strict lockdowns, or physical danger).
+You can get such a powerbank at any electronics store, or online (i.e. on amazon). I recommend to look at amazon to see which one has the best reviews, and get that one. These are readily available locally, so you don't need to ***buy it right now***; you can probably get one even after the hypothetical emergency, just by going to the electronics store (which might not be possible in certain types of disasters, because of strict lockdowns, or physical danger).
 
 To do that, go to amazon > search "solar powerbank" > sort by Avg. Customer Reviews.
 
