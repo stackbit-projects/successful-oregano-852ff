@@ -7,6 +7,7 @@ excerpt: ''
 date: '2021-01-20'
 template: post
 thumb_img_path: images/violet-crane.gif
+content_img_path: images/DeepinScreenshot_select-area_20210120184406.png
 ---
 ## \[Tutorial] Big folder of books for emergencies, disasters, collapses, etc.
 
