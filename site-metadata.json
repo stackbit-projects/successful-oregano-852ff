@@ -32,5 +32,11 @@
         ]
     },
     "title": "WTF",
-    "favicon": "images/treesmars.jpeg"
+    "favicon": "images/treesmars.jpeg",
+    "header": {
+        "title": "lorem-ipsum",
+        "has_nav": true,
+        "nav_links": [],
+        "type": "header"
+    }
 }
