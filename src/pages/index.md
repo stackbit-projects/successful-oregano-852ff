@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: Random
+  - title: Random posts
     section_id: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum
