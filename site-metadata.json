@@ -38,7 +38,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Main page",
                 "url": "lorem-ipsum",
                 "new_window": false,
                 "no_follow": false,
