@@ -14,7 +14,7 @@ thumb_img_path: images/violet-crane.gif
 
 Covering most possible use cases, and emergency situations - this compilation of books is to ensure your total safety, and survival, in case of the general types of emergencies/disasters (such as natural disasters, pandemics, war, and political collapses).
 
-Considering the fact that you might \*\*not have access to electricity in an emergency \*\*- i recommend to get these books on your phone (by following the tutorial below).
+Considering the fact that you **might not have access to electricity in an emergency** - i recommend to get these books on your phone by following the tutorial below.
 
 *   Q: Why phone?
 
@@ -22,7 +22,7 @@ Considering the fact that you might \*\*not have access to electricity in an eme
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fforgardening.org%2Fwp-content%2Fuploads%2F2018%2F08%2FSolar-Powerbank-von-XTPower-im-Test-XTPower-XT-S4000-Review-16.jpg\&f=1\&nofb=1)
 
-You can get such a powerbank at any electronics store, or online (i.e. on amazon). I recommend to look at amazon to see which one has the best reviews, and get that one.
+You can get such a powerbank at any electronics store, or online (i.e. on amazon). I recommend to look at amazon to see which one has the best reviews, and get that one. These are readily available locally, so you don't need ti buy it ***right now; *** you can probably get one even after the hypothetical emergency, just by going to the electronics store (which might not be possible in certain types of disasters, because of strict lockdowns, or physical danger).
 
 To do that, go to amazon > search "solar powerbank" > sort by Avg. Customer Reviews.
 
@@ -34,6 +34,4 @@ To do that, go to amazon > search "solar powerbank" > sort by Avg. Customer Revi
 
 ![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area\_20210120192046.png?raw=true)
 
-
-
-# How to get the books on your (android) phone
+# How to get the books on your (android) phone:
