@@ -32,8 +32,8 @@ To do that, go to amazon > search "solar powerbank" > sort by Avg. Customer Revi
 
 ![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area\_20210120190331.png?raw=true)
 
-
-
 ![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area\_20210120192046.png?raw=true)
 
-Ffefsfe
+
+
+# How to get the books on your (android) phone
