@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: Random posts
+  - title: ''
     section_id: ''
     subtitle: ''
     image_alt: ''
