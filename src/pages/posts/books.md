@@ -28,14 +28,12 @@ To do that, go to amazon > search "solar powerbank" > sort by Avg. Customer Revi
 
 (Don't forget to choose your local region for cheap shipping <https://www.amazon.com/gp/navigation-country/select-country/> )
 
-
-
-![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area_20210120190331.png?raw=true)
-
 *   Pro tip: look for over 1000 4.5+ reviews
 
+![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area\_20210120190331.png?raw=true)
 
 
-![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area_20210120192046.png?raw=true)
+
+![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area\_20210120192046.png?raw=true)
 
 Ffefsfe
