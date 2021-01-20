@@ -36,24 +36,24 @@ To do that, go to amazon > search "solar powerbank" > sort by Avg. Customer Revi
 
 # How to get the books on your (android) phone:
 
-The folder with the books is a zip archive, it's a format that compresses the files for easier storage, and portability. 
+The folder with the books is a zip archive, it's a format that compresses the files for easier storage, and portability.
 
-![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area_20210120194309.png?raw=true)
+![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area\_20210120194309.png?raw=true)
 
 All you need to do is "extract" this zip archive to your phone (or to your computer, and then copy the extracted folder(s) to your phone).
 
-1.  Download the zip (it takes a couple hours) <https://drive.google.com/file/d/12Z523kC6Km8yeEbjrrGRBKZt7_nLyJMg/view?usp=sharing> . 
+1.  Download the zip (it takes a couple hours) <https://drive.google.com/file/d/12Z523kC6Km8yeEbjrrGRBKZt7_nLyJMg/view?usp=sharing> .
 
 2.  Extract the folder
 
 On computer:
 
-![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area_20210120195255.png?raw=true)
+![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area\_20210120195255.png?raw=true)
 
+![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area\_20210120195638.png?raw=true)
 
+6\. You can now hook up your phone to the computer and transfer the files
 
-![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area_20210120195638.png?raw=true)
+![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area_20210120200722.png?raw=true)
 
 On android:
-
- 
