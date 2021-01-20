@@ -14,7 +14,7 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    image_alt: lorem-ipsum
+    image_alt: ''
     type: section_hero
     image: images/beige-squid.gif
   - title: Recent Posts
