@@ -14,8 +14,6 @@ thumb_img_path: images/violet-crane.gif
 
 TL;DR
 
-
-
 Covering most possible use cases, and emergency situations - this compilation of books is to ensure your total safety, and survival, in case of the general types of emergencies/disasters (such as natural disasters, pandemics, war, and political collapses).
 
 The contents include
