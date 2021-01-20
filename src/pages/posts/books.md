@@ -2,7 +2,7 @@
 title: Books for emergencies and disasters
 subtitle: ''
 content_img_alt: ''
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: ''
 excerpt: lorem-ipsum
 date: '2021-01-20'
 template: post
