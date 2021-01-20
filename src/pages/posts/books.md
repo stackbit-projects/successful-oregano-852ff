@@ -24,6 +24,18 @@ Considering the fact that you might \*\*not have access to electricity in an eme
 
 You can get such a powerbank at any electronics store, or online (i.e. on amazon). I recommend to look at amazon to see which one has the best reviews, and get that one.
 
+To do that, go to amazon > search "solar powerbank" > sort by Avg. Customer Reviews.
+
+(Don't forget to choose your local region for cheap shipping <https://www.amazon.com/gp/navigation-country/select-country/> )
+
 
 
 ![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area_20210120190331.png?raw=true)
+
+*   Pro tip: look for over 1000 4.5+ reviews
+
+
+
+![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area_20210120192046.png?raw=true)
+
+Ffefsfe
