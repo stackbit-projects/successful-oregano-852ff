@@ -16,6 +16,7 @@ sections:
       - dolor sit amet
     image_alt: lorem-ipsum
     type: section_hero
+    image: images/beige-squid.gif
   - title: Recent Posts
     section_id: posts
     type: section_posts
