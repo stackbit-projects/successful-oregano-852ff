@@ -54,6 +54,26 @@ On computer:
 
 6\. You can now hook up your phone to the computer and transfer the files
 
-![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area_20210120200722.png?raw=true)
+![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area\_20210120200722.png?raw=true)
 
 On android:
+
+*   Get RAR <https://play.google.com/store/apps/details?id=com.rarlab.rar&hl=en_IN&gl=US> .
+
+*   Using RAR go to the where you downloaded the ZIP (usually it's the Downloads folder)
+
+![](https://i.ibb.co/q92yw2J/Deepin-Screenshot-select-area-20210121090839.png)
+
+*   Select the ZIP by ticking the box on the right, and tap the icon with the "up arrow" ^.
+
+![](https://i.ibb.co/tPxgGfy/Deepin-Screenshot-select-area-20210121091546.png)
+
+*   To extract tap "OK" 
+
+![](https://i.ibb.co/Yc4YHL5/Deepin-Screenshot-select-area-20210121092325.png)
+
+*   When done - you should delete the original **ZIP folder** (**not the new extracted one**), to free up space, as it's no longer needed.
+
+![](https://i.ibb.co/d2Qkh56/Deepin-Screenshot-select-area-20210121092722.png)
+
+uutut
