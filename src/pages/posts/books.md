@@ -68,7 +68,7 @@ On android:
 
 ![](https://i.ibb.co/tPxgGfy/Deepin-Screenshot-select-area-20210121091546.png)
 
-*   To extract tap "OK" 
+*   To extract tap "OK"
 
 ![](https://i.ibb.co/Yc4YHL5/Deepin-Screenshot-select-area-20210121092325.png)
 
@@ -76,4 +76,16 @@ On android:
 
 ![](https://i.ibb.co/d2Qkh56/Deepin-Screenshot-select-area-20210121092722.png)
 
-uutut
+*   Done!
+
+4\.  To read the books get a reader app
+
+*   i recommend:
+
+Librera <https://play.google.com/store/apps/details?id=com.foobnix.pdf.reader&hl=en_IN&gl=US> .
+
+or
+
+Adobe Acrobat <https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en_IN&gl=US> .
+
+5\. Done!
