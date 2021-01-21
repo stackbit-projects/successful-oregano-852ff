@@ -42,17 +42,17 @@ The folder with the books is a zip archive, it's a format that compresses the fi
 
 All you need to do is "extract" this zip archive to your phone (or to your computer, and then copy the extracted folder(s) to your phone).
 
-1.  Download the zip (it takes a couple hours) <https://drive.google.com/file/d/12Z523kC6Km8yeEbjrrGRBKZt7_nLyJMg/view?usp=sharing> .
+**1, Download the zip (it takes a couple hours)  **<https://drive.google.com/file/d/12Z523kC6Km8yeEbjrrGRBKZt7_nLyJMg/view?usp=sharing> .
 
-2.  Extract the folder
+**2. Extract the folder**
 
-On computer:
+*   On computer:
 
 ![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area\_20210120195255.png?raw=true)
 
 ![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area\_20210120195638.png?raw=true)
 
-6\. You can now hook up your phone to the computer and transfer the files
+*   You can now hook up your phone to the computer and transfer the files
 
 ![](https://github.com/dewittswymmerr/victor-hugo/blob/pictures/DeepinScreenshot_select-area\_20210120200722.png?raw=true)
 
@@ -78,7 +78,7 @@ On android:
 
 *   Done!
 
-4\.  To read the books get a reader app
+**4.  To read the books get a reader app**
 
 *   i recommend:
 
@@ -88,4 +88,4 @@ or
 
 Adobe Acrobat <https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en_IN&gl=US> .
 
-5\. Done!
+**5.** **Done!**
