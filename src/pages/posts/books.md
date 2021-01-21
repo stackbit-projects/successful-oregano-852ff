@@ -10,6 +10,8 @@ thumb_img_path: images/violet-crane.gif
 ---
 ## \[Tutorial] Big folder of books for emergencies, disasters, collapses, etc.
 
+![](https://bestanimations.com/media/books/437011446stack-of-books-animation.gif)
+
 #### A compilation of many critical books for emergencies, and how to get them on your phone:
 
 Covering most possible use cases, and emergency situations - this compilation of books is to ensure your total safety, and survival, in case of the general types of emergencies/disasters (such as natural disasters, pandemics, war, and political collapses).
@@ -42,7 +44,7 @@ The folder with the books is a zip archive, it's a format that compresses the fi
 
 All you need to do is "extract" this zip archive to your phone (or to your computer, and then copy the extracted folder(s) to your phone).
 
-**1, Download the zip (it takes a couple hours)  **<https://drive.google.com/file/d/12Z523kC6Km8yeEbjrrGRBKZt7_nLyJMg/view?usp=sharing> .
+\*\*1, Download the zip (it takes a couple hours)  \*\*<https://drive.google.com/file/d/12Z523kC6Km8yeEbjrrGRBKZt7_nLyJMg/view?usp=sharing> .
 
 **2. Extract the folder**
 
