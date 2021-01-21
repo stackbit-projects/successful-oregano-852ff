@@ -44,7 +44,7 @@ The folder with the books is a zip archive, it's a format that compresses the fi
 
 All you need to do is "extract" this zip archive to your phone (or to your computer, and then copy the extracted folder(s) to your phone).
 
-\*\*1, Download the zip (it takes a couple hours)  \*\*<https://drive.google.com/file/d/12Z523kC6Km8yeEbjrrGRBKZt7_nLyJMg/view?usp=sharing> .
+**1, Download the zip (it takes a couple hours)**  <https://drive.google.com/file/d/12Z523kC6Km8yeEbjrrGRBKZt7_nLyJMg/view?usp=sharing> .
 
 **2. Extract the folder**
 
