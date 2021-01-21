@@ -16,6 +16,14 @@ thumb_img_path: images/violet-crane.gif
 
 Covering most possible use cases, and emergency situations - this compilation of books is to ensure your total safety, and survival, in case of the general types of emergencies/disasters (such as natural disasters, pandemics, war, and political collapses).
 
+The compilation weighs 3.2Gb, and the books are meant to be useful in **any/most** emergencies, from first-aid, to natural disasters, to operating a boat, to orienteering on and off land.
+
+![](https://i.ibb.co/SXXwQvN/Deepin-Screenshot-select-area-20210121113010.png)
+
+
+
+![](https://i.ibb.co/QnyXrLq/Deepin-Screenshot-select-area-20210121112948.png)
+
 Considering the fact that you **might not have access to electricity in an emergency** - i recommend to get these books on your phone by following the tutorial below.
 
 *   Q: Why phone?
