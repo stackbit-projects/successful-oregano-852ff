@@ -16,9 +16,11 @@ thumb_img_path: images/violet-crane.gif
 
 Covering most possible use cases, and emergency situations - this compilation of books is to ensure your total safety, and survival, in case of the general types of emergencies/disasters (such as natural disasters, pandemics, war, and political collapses).
 
-The compilation weighs 3.2Gb, and the books are meant to be useful in **any/most** emergencies, from first-aid, to natural disasters, to operating a boat, to orienteering on and off land. 
+The compilation weighs 3.2Gb, and the books are meant to be useful in **any/most** emergencies, from first-aid, to natural disasters, to operating a boat, to orienteering on and off land.
 
 The tutorial on how to download the books is below. If you already know what to do with ZIP folders here's the link - https://drive.google.com/file/d/12Z523kC6Km8yeEbjrrGRBKZt7\_nLyJMg/view?usp=sharing
+
+
 
 ![](https://i.ibb.co/SXXwQvN/Deepin-Screenshot-select-area-20210121113010.png)
 
