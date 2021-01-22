@@ -18,9 +18,7 @@ Covering most possible use cases, and emergency situations - this compilation of
 
 The compilation weighs 3.2Gb, and the books are meant to be useful in **any/most** emergencies, from first-aid, to natural disasters, to operating a boat, to orienteering on and off land.
 
-The tutorial on how to download the books is below. If you already know what to do with ZIP folders here's the link - https://drive.google.com/file/d/12Z523kC6Km8yeEbjrrGRBKZt7\_nLyJMg/view?usp=sharing
-
-
+The tutorial on how to download the books is below. If you already know what to do with ZIP folders here's the link - https://1drv.ms/u/s!AjUAZRSTcN8la4py3OivSyB8vZk?e=mCEOJl
 
 ![](https://i.ibb.co/SXXwQvN/Deepin-Screenshot-select-area-20210121113010.png)
 
@@ -54,7 +52,7 @@ The folder with the books is a zip archive, it's a format that compresses the fi
 
 All you need to do is "extract" this zip archive to your phone (or to your computer, and then copy the extracted folder(s) to your phone).
 
-**1, Download the zip (it takes a couple hours)**  <https://drive.google.com/file/d/12Z523kC6Km8yeEbjrrGRBKZt7_nLyJMg/view?usp=sharing> .
+**1, Download the zip (it takes a couple hours)** <https://1drv.ms/u/s!AjUAZRSTcN8la4py3OivSyB8vZk?e=mCEOJl> .
 
 **2. Extract the folder**
 
